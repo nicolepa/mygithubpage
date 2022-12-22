@@ -17,16 +17,15 @@
   </a>
 </p>
 
-#### On the topic of personal stuffs:
-
-🧑🏻‍🎓&nbsp; I'm currently open for hire.
-<br/>
-🧑🏻‍💻&nbsp; I just graduated from CMU, where I studied Computer Science.
-<br/>
-🌱&nbsp; I’m learning AWS at the moment and sharpening my fundamental knowledge JS.
-<br/>
-💞️&nbsp; When I'm not coding, I enjoy hanging out with my friends, taking photos and crafting things and stuffs.
-<br/>
+Q&A time~
+<ul>
+<li>I am open to work / for hire</li>
+<li>why computer science</li>
+<li>why software engineering</li>
+<li>my current career-related time+effort investments a la "my heart and mind are in the work"</li>
+<li>my habits/traits/mentalities/etc</li>
+<li>my other passions</li>
+</ul>
 
 <h2 align="center">💡Projects Spotlight💡</h2>
 <table bordercolor="#66b2b2">
