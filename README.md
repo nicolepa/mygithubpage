@@ -1,17 +1,20 @@
-<h1 align="center">👀 Hey, It's nice seeing you here 👋 I'm Nicole. </h1>
+<h1 align="center">hello, hi, my name is Nicole!!</h1>
 
-<h3 align="center">Recently graduated from Carnegie Mellon University's School of Computer Science + currently developing myself to become a full-stack software engineer.</h3>
+<h1 align="center">recently graduated from Carnegie Mellon University's School of Computer Science + currently developing myself to become a full-stack software engineer.</h1>
 
 <p align="center">
- ✨
-  <a target="_blank" href="https://nicolepa.webflow.io/">
-    <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
-  </a>
- ✨
   <a target="_blank" href="https://www.linkedin.com/in/nicolepa/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- ✨
+  <a target="_blank" href="https://calendly.com/nicolepa_dev" target="_blank">
+    <img src=""/>
+  </a>
+  <a target="_blank" href="https://nicolepa.webflow.io/" target="_blank">
+    <img src="">
+  </a>
+  <a target="_blank" href="https://www.nicolepa.hashnode.dev" target="_blank">
+    <img src=""/>
+  </a>
 </p>
 
 #### On the topic of personal stuffs:
