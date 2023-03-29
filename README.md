@@ -107,7 +107,7 @@ https://user-images.githubusercontent.com/79684572/199574881-b29f6782-48de-4224-
 
 ---
 
-<h4 align="right">Check Out My Projects Down There 🙇🏻‍♂️</h4>
+<h4 align="left">👀 check out all of my projects below 🙇‍♀️</h4>
 
 <!--
 note to self: eventually my personal protfolio/website
