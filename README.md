@@ -125,9 +125,11 @@ note to self: eventually my personal protfolio/website
 <!--
 note to self: eventually my tech blog (+ vlog)  
 -->
+<!--
   <a target="_blank" href="https://linkedin.com/in/nicolepa" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+-->
 <!--
 note to self: my profiles on other job platforms (handshake,untapped,???)
 -->
