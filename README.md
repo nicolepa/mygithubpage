@@ -35,8 +35,8 @@ Q&A time~
         <br>
 <a target="_blank" href="https://google.com/"></a>
 
-https://user-images.githubusercontent.com/79684572/199575428-85c68b22-eb45-45ad-9c5e-cb2542c4f02e.mp4
-
+<!-- video demo of project -->
+      
   <p align="center">
   <a href="https://github.com/nicolepa" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
@@ -53,8 +53,8 @@ https://user-images.githubusercontent.com/79684572/199575428-85c68b22-eb45-45ad-
         <br>
 <a target="_blank" href="https://google.com/"></a>
 
-https://user-images.githubusercontent.com/79684572/199574881-b29f6782-48de-4224-857e-5caca568aba3.mp4
-
+<!-- video demo of project -->
+  
   <p align="center">
   <a href="https://github.com/nicolepa" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
