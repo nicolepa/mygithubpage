@@ -48,7 +48,7 @@ Q&A time~
         <p><strong>Tools used: React, Sass, MySQL/Firebase, NodeJs, ExpressJS, Vercel, Figma, Lightroom.</strong> - Project Description
 </p>
     </td>
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">TBD2</h3>
         <br>
 <a target="_blank" href="https://google.com/"></a>
@@ -66,8 +66,26 @@ Q&A time~
         <p><strong>Tools used: React, Sass, NodeJs, ExpressJS, Vercel, Fly.io .</strong> - Project Description</p>
     </td>
   </tr>
-  
-  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">TBD3</h3>
+        <br>
+<a target="_blank" href="https://google.com/"></a>
+
+<!-- video demo of project -->
+      
+  <p align="center">
+  <a href="https://github.com/nicolepa" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="https://google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong>Tools used:</strong> - Project Description
+</p>
+    </td>
+  </tr>
 </table>
 
 <h3>Languages & Tools I Use:</h3>
